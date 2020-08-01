@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="T6 ViablePlacementsTest" type="JUnit" factoryName="JUnit">
+    <module name="comp1110-ass2-thu16m" />
+    <option name="PACKAGE_NAME" value="comp1110.ass2" />
+    <option name="MAIN_CLASS_NAME" value="comp1110.ass2.ViablePlacementsTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
